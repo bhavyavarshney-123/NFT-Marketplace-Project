@@ -1,7 +1,7 @@
 # NFT-Marketplace
 
 A simple NFT Marketplace that allows users to **mint, list, and buy NFTs**.  
-This project demonstrates the core functionality of an NFT marketplace with **minimal, human-readable smart contracts**. Frontend integration (MetaMask) is work-in-progress; interactions can be done via CLI scripts.
+This project demonstrates the core functionality of an NFT marketplace. Frontend integration (MetaMask) is work-in-progress; interactions can be done via CLI scripts.
 
 ---
 
