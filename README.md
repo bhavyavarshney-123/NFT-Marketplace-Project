@@ -25,4 +25,4 @@ This project demonstrates the core functionality of an NFT marketplace. Frontend
 
 ## Next Steps
 
-Frontend (MetaMask) integration is WIP, so CLI scripts are used for demonstration.
+Frontend with Metamask integration is WIP, so CLI scripts are used for demonstration.
